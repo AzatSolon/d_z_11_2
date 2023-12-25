@@ -1,2 +1,2 @@
-def big_text():
-    return input().upper()
+def big_text(s=''):
+    return s.upper()
